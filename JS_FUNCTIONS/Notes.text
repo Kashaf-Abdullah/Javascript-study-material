@@ -1,0 +1,20 @@
+TERMINOLOGIES
+Functions  and Methods
+Declaration and definition
+Argments and parameter
+Callback and high order Functions
+
+
+
+
+
+
+
+
+
+
+
+The var keyword creates a function-scope variable.
+The let keyword creates a block-scope variable.
+The const keyword creates a block-scope variable that cannot be reassigned.
+A bare declaration creates a global variable.
